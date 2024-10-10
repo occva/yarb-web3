@@ -7,13 +7,8 @@
   - [The Miraculous Resurrection of Notre-Dame](https://longreads.com/2024/10/09/the-miraculous-resurrection-of-notre-dame/)
   - [65 Doctors, Nurses, and Paramedics: What We Saw in Gaza](https://longreads.com/2024/10/09/65-doctors-nurses-and-paramedics-what-we-saw-in-gaza/)
   - [When the Arctic Melts](https://longreads.com/2024/10/09/when-the-arctic-melts/)
-- Stories by 哔哔News on Medium
-  - [Berachain主网初期，该做些什么？](https://medium.com/@bitalkforu/berachain%E4%B8%BB%E7%BD%91%E5%88%9D%E6%9C%9F-%E8%AF%A5%E5%81%9A%E4%BA%9B%E4%BB%80%E4%B9%88-2d5d4e477bb6?source=rss-d81aafc2c47b------2)
-  - [Berachain的Boyco预存款到底是什么❓](https://medium.com/@bitalkforu/berachain%E7%9A%84boyco%E9%A2%84%E5%AD%98%E6%AC%BE%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88-f768248a19d1?source=rss-d81aafc2c47b------2)
 - Messari Crypto News Feed
   - [Is Cereal a Soup, Socrates? - DePIN's Categorization Problem and the Wisdom of Inclusivity](https://messari.io/article/is-cereal-a-soup-socrates-depin-s-categorization-problem-and-the-wisdom-of-inclusivity)
-- crossoverJie's Blog
-  - [StarRocks 开发环境搭建踩坑指北](http://crossoverjie.top/2024/10/09/ob/StarRocks-dev-env-build/)
 - The Defiant
   - [Bitcoin’s Taproot Upgrade Suffers Slow Adoption Despite More Companies Supporting It](https://thedefiant.io/news/blockchains/bitcoin-s-taproot-upgrade-suffers-slow-adoption-despite-more-companies-supporting-it)
   - [Circle Launches Native USDC On SUI](https://thedefiant.io/news/defi/circle-launches-native-usdc-on-sui)
@@ -28,10 +23,15 @@
   - [Bitcoin Roundup: Ethiopian Mining Booms, Russian Investigator Jailed Over BTC Bribe, Fold Files For IPO](https://thedefiant.io/news/blockchains/bitcoin-roundup-ethiopian-mining-booms-russian-investigator-jailed-over-btc-bribe-fold-files-for)
   - [Babylon Attracts $1.42B In BTC Over 10 Bitcoin Blocks](https://thedefiant.io/news/defi/babylon-attracts-usd1-42b-in-btc-over-10-bitcoin-blocks)
   - [Crypto Community Slams HBO Documentary Claiming Peter Todd Is Satoshi](https://thedefiant.io/news/people/crypto-community-slams-hbo-documentary-claiming-peter-todd-is-satoshi)
+- Stories by 哔哔News on Medium
+  - [Berachain主网初期，该做些什么？](https://medium.com/@bitalkforu/berachain%E4%B8%BB%E7%BD%91%E5%88%9D%E6%9C%9F-%E8%AF%A5%E5%81%9A%E4%BA%9B%E4%BB%80%E4%B9%88-2d5d4e477bb6?source=rss-d81aafc2c47b------2)
+  - [Berachain的Boyco预存款到底是什么❓](https://medium.com/@bitalkforu/berachain%E7%9A%84boyco%E9%A2%84%E5%AD%98%E6%AC%BE%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88-f768248a19d1?source=rss-d81aafc2c47b------2)
 - Ethereum Research - Latest posts
   - [RPC Nodes Management Tools](https://ethresear.ch/t/rpc-nodes-management-tools/20598#post_1)
   - [Decentralized and Verifiable Cloud Service on Ethereum](https://ethresear.ch/t/decentralized-and-verifiable-cloud-service-on-ethereum/20292#post_8)
   - [PANDAS: A Practical Approach for Next-Generation Data Availability Sampling](https://ethresear.ch/t/pandas-a-practical-approach-for-next-generation-data-availability-sampling/20426#post_8)
+- crossoverJie's Blog
+  - [StarRocks 开发环境搭建踩坑指北](http://crossoverjie.top/2024/10/09/ob/StarRocks-dev-env-build/)
 - Randy's Blog
   - [AI 和写作](https://lutaonan.com/blog/ai-writing/)
 - Decohack
@@ -41,30 +41,26 @@
 - BitMEX Blog
   - [Now Live: Pre-Launch Futures Contract for SCR with 2x Leverage](https://blog.bitmex.com/scrusdth25/)
   - [Simpler Fees, Bigger Rewards: Upcoming Changes to BitMEX Fee Structures](https://blog.bitmex.com/fee-changes-2024/)
-- Stories by DeGate Team on Medium
-  - [DeGate Monthly Update September | Cross-Chain is here](https://degate.medium.com/degate-monthly-update-september-cross-chain-is-here-512a72d379f9?source=rss-a24c95fa993d------2)
-- Deribit Insights
-  - [Owning Crypto Vol More Attractive](https://insights.deribit.com/industry/owning-crypto-vol-more-attractive/)
 - Bitfinex blog
   - [Bitfinex Pay – Release V0.7.2](https://blog.bitfinex.com/bitfinex-pay/bitfinex-pay-release-v0-7-2/)
+- Deribit Insights
+  - [Owning Crypto Vol More Attractive](https://insights.deribit.com/industry/owning-crypto-vol-more-attractive/)
 - News  |  PayPal Newsroom
   - [Venmo Introduces the Ability to Schedule Payments and Requests](https://newsroom.paypal-corp.com/2024-10-09-Venmo-Introduces-the-Ability-to-Schedule-Payments-and-Requests)
+- Synthetix Blog
+  - [Synthetix Quarterly Report — Q3 2024](https://blog.synthetix.io/synthetix-quarterly-report-q3-2024/)
+- BitPay Blog
+  - [The Evolution of Bitcoin: A History of BTC’s Price & Cultural Significance](https://bitpay.com/blog/history-of-bitcoin/)
+  - [Ethereum Explained: An Introduction to the Ethereum Network’s Inner Workings and Use Cases](https://bitpay.com/blog/ethereum-explained/)
 - Xage Security
   - [Xage Security Secures $1.5 Million Contract by US Navy to Advance Zero Trust Initiatives](https://industrialcyber.co/news/xage-security-secures-1-5-million-contract-by-us-navy-to-advance-zero-trust-initiatives/)
   - [Xage Security Awarded $1.5 Million Contract by United States Navy to Advance Zero Trust Initiatives](https://xage.com/press/xage-security-awarded-1-5-million-contract-by-united-states-navy-to-advance-zero-trust-initiatives/)
   - [Xage Security Announces $1.5 Million Contract with the U.S. Navy to Accelerate Zero Trust Initiatives](https://xage.com/blog/u-s-navy-to-accelerate-zero-trust-initiatives-with-xage/)
-- BitPay Blog
-  - [The Evolution of Bitcoin: A History of BTC’s Price & Cultural Significance](https://bitpay.com/blog/history-of-bitcoin/)
-  - [Ethereum Explained: An Introduction to the Ethereum Network’s Inner Workings and Use Cases](https://bitpay.com/blog/ethereum-explained/)
-- Synthetix Blog
-  - [Synthetix Quarterly Report — Q3 2024](https://blog.synthetix.io/synthetix-quarterly-report-q3-2024/)
-- Chainalysis
-  - [Regulating the Future: ADGM’s Blueprint for Decentralization:  Podcast Ep. 131](https://www.chainalysis.com/blog/adgm-blueprint-for-decentralization-and-regulation-ep-131/)
-  - [Latin America’s Search for Economic Stability: The Rise of Stablecoins Amid Volatility](https://www.chainalysis.com/blog/2024-latin-america-crypto-adoption/)
 - Newcomer
   - [The Bear Case for OpenAI at $157 Billion](https://www.newcomer.co/p/the-bear-case-for-openai-at-157-billion)
+- ZK Podcast
+  - [Episode 343: Mastering MPC & Memes with Mikerah](https://zeroknowledge.fm/343-2/)
 - CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
-  - [Protocol Village: Nexus Launches 'World's First Open Prover Network' in Beta](https://www.coindesk.com/tech/2024/10/09/protocol-village/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
   - [Bitcoin Dips Below $61K, Ether Slips 3% as Some PlusToken China Ponzi-Related Coins Moved to Exchanges](https://www.coindesk.com/markets/2024/10/09/bitcoin-dips-below-61k-ether-slips-3-as-some-plustoken-china-ponzi-related-coins-moved-to-exchanges/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
   - [SEC Chair Gary Gensler on Crypto: ‘It’s Unlikely This Stuff Is Gonna Be a Currency’](https://www.coindesk.com/policy/2024/10/09/sec-chair-gary-gensler-on-crypto-its-unlikely-this-stuff-is-gonna-be-a-currency/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
   - [CPI Growth Is Set to Slow Even More](https://www.coindesk.com/opinion/2024/10/09/cpi-growth-is-set-to-slow-even-more/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
@@ -85,8 +81,47 @@
   - [Crypto Majors BTC, ETH, XRP Little Changed as HBO Calls Peter Todd the Bitcoin Creator](https://www.coindesk.com/markets/2024/10/09/crypto-majors-btc-eth-xrp-little-changed-as-hbo-calls-peter-todd-the-bitcoin-creator/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
   - [Bitcoin Trapped Between 50 and 200-Day Averages as Bond Market Volatility Spikes, China Stocks Slide](https://www.coindesk.com/markets/2024/10/09/bitcoin-trapped-between-50-and-200-day-averages-as-bond-market-volatility-spikes-china-stocks-slide/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
   - [The DPRK's Deep Roots in Crypto](https://www.coindesk.com/policy/2024/10/09/the-dprks-deep-roots-in-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+- Chainalysis
+  - [Regulating the Future: ADGM’s Blueprint for Decentralization:  Podcast Ep. 131](https://www.chainalysis.com/blog/adgm-blueprint-for-decentralization-and-regulation-ep-131/)
+  - [Latin America’s Search for Economic Stability: The Rise of Stablecoins Amid Volatility](https://www.chainalysis.com/blog/2024-latin-america-crypto-adoption/)
+- Crypto Briefing
+  - [FBI creates crypto token to catch fraudsters in historic market manipulation case](https://cryptobriefing.com/crypto-market-manipulation-charges/)
+  - [Ruling on Binance exec Tigran Gambaryan’s bail delayed due to judge’s absence](https://cryptobriefing.com/tigran-gambaryan-bail-delay/)
+  - [Meme coin whale’s wallets exposed in new ZachXBT’s report](https://cryptobriefing.com/meme-coin-exposure-mahmudov/)
+  - [TRON DAO hosted the TRON Builder Tour at Columbia University with Blockchain at Columbia and Boston University Blockchain](https://cryptobriefing.com/tron-builder-tour-columbia/)
+  - [Bitfinex may be the only victim in $7.4 billion Bitcoin theft: US govt.](https://cryptobriefing.com/bitfinex-bitcoin-restitution-2016/)
+  - [VanEck establishes $30 million venture fund to support crypto and AI startups](https://cryptobriefing.com/vaneck-crypto-fund-venture/)
+  - [Who is Peter Todd, and why does HBO think he is Satoshi?](https://cryptobriefing.com/hbo-satoshi-speculation-documentary/)
+  - [Peter Todd revealed as Satoshi Nakamoto in HBO’s documentary](https://cryptobriefing.com/peter-todd-satoshi-documentary/)
+  - [Discord access restricted in Turkey after Russian ban](https://cryptobriefing.com/turkey-discord-ban-restriction/)
+- ChainFeeds精选
+  - [【英文长推】Bitkraft 2024 峰会洞察：AI x 游戏的现实、IP 迷思与东西方市场的差异](https://www.chainfeeds.xyz/feed/detail/b28ddea8-f51c-448d-bf71-989587cc539d)
+  - [ABCDE 联创 BMAN：叙事科学的目标是成为第一或唯一](https://www.chainfeeds.xyz/feed/detail/b9da8033-1d9b-439a-bc22-b23157509fe7)
+  - [解析 Binance Launchpool 挖矿项目 SCR：挖矿收益对比](https://www.chainfeeds.xyz/feed/detail/b3136809-5907-4459-a55c-6dbf80d85ed3)
+  - [Memecoin 超级周期：一场颠覆传统加密叙事的革命](https://www.chainfeeds.xyz/feed/detail/99bf6c96-b57e-46f6-8a0c-d31654e4b2f7)
+  - [【英文长推】区块链协议的价值累积：交易费、MEV 与代币发行](https://www.chainfeeds.xyz/feed/detail/1761662b-3c36-4e3c-aa42-d805c7de0d33)
+  - [IOSG：从 WBTC 到 ETH 上的 BTC-LST: BTC-LST 生态系统的早期探索](https://www.chainfeeds.xyz/feed/detail/e296c231-2b52-4d21-8af0-a280e2d294bb)
+  - [Solana 9 月 MEV 数据洞察：原子套利主导收入，Tips 激烈度远低于以太坊](https://www.chainfeeds.xyz/feed/detail/195b103b-cc17-4039-b46d-6dbf5ff865b3)
+  - [【英文长推】区块链价值捕获新趋势：应用收入正逐步超越基础设施](https://www.chainfeeds.xyz/feed/detail/ec869580-1ab7-41c7-9cb8-2ed932c1102f)
+  - [投研早报丨全链上游戏作为金融市场：Web3 游戏的终极形态 / 全面解析以太坊 L2 中的欺诈证明状况 / Arthur Hayes：避开 CEX 陷阱，项目方如何用 DEX 逆袭加密市场](https://substack.chainfeeds.xyz/p/web3-l2-arthur-hayes-cex-dex)
+- Unchained
+  - [Bitcoin Staking Protocol Babylon Draws from LSTs and WBTC to Attract $1.5 Billion in Deposits](https://unchainedcrypto.com/bitcoin-staking-protocol-babylon-draws-from-lsts-and-wbtc-to-attract-1-5-billion-in-deposits/)
+  - [Why Bitcoin and Crypto Prices Are Set to Surge Regardless of Who Wins the U.S. Presidential Election](https://unchainedcrypto.com/why-bitcoin-and-crypto-prices-are-set-to-surge-regardless-of-who-wins-the-u-s-presidential-election/)
+  - [Coinbase Activates Bitcoin Taproot Transfers](https://unchainedcrypto.com/coinbase-activates-bitcoin-taproot-transfers/)
+  - [HBO Documentary Names Peter Todd as Bitcoin Creator Satoshi Nakamoto](https://unchainedcrypto.com/hbo-documentary-names-peter-todd-as-bitcoin-creator-satoshi-nakamoto/)
 - Crypto News on Seeking Alpha
   - [Peter Todd denies claims of being bitcoin's mysterious creator - reports](https://seekingalpha.com/news/4157435-peter-todd-denies-claims-of-being-satoshi-bitcoins-mysterious-creator-reports?utm_source=feed_news_crypto&utm_medium=referral&feed_item_type=news)
+- Trustnodes
+  - [S&P 500 Hits a New All Time High](https://www.trustnodes.com/2024/10/09/sp-500-hits-new-all-time-high)
+  - [Peter Todd is Not Satoshi Nakamoto](https://www.trustnodes.com/2024/10/09/peter-todd-is-not-satoshi-nakamoto)
+  - [Scroll Announces Airdrop](https://www.trustnodes.com/2024/10/09/scroll-announces-airdrop)
+- 深潮TechFlow
+  - ["Initia：把所有 Rollup 连接起来，打造“Layer1+Layer2”万链互通世界](https://techflowpost.mirror.xyz/karPx-pp3tFJ5ef2zFjuAI2Ef0gqc_x_wLEJ49AW1Vw)
+- 動區動趨-最具影響力的區塊鏈新聞媒體
+  - [Bitwise：比特幣「三條件」年底突破 8 萬鎂，山寨幣成加速器](https://www.blocktempo.com/bitcoin-to-hit-80k-by-year-end-after-meeting-three-conditions/)
+  - [金管會首開「銀行保管比特幣」！預計明年Q1試辦，3業者入局](https://www.blocktempo.com/the-financial-supervisory-commission-opens-the-first-bank-bitcoin-expected-to-hit-the-road-next-year/)
+  - [觀點》用戶「自證資金」來源需合法，大風吹向各國](https://www.blocktempo.com/exchanges-will-strengthen-risk-control/)
+  - [Morpho如何完成DeFi領域的涅槃重生？](https://www.blocktempo.com/how-morpho-is-reshaping-the-defi-space/)
 - Cointelegraph.com News
   - [Why is Solana (SOL) price down today?](https://cointelegraph.com/news/why-is-solana-sol-price-down-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Decentralization could help humanity to avoid an AI doomsday scenario](https://cointelegraph.com/news/decentralization-could-help-humanity-avoid-an-ai-doomsday-scenario?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -114,42 +149,15 @@
   - [Everything HBO’s Bitcoin doc got wrong about Peter Todd and Satoshi](https://cointelegraph.com/news/hbo-documentary-peter-todd-satoshi-nakamoto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [VanEck launches $30M ventures fund for crypto and AI](https://cointelegraph.com/news/vaneck-30-million-venture-fund-crypto-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tracing the evolution of Blockchain, with Eos Network Foundation exec](https://cointelegraph.com/news/tracing-the-evolution-of-blockchain-with-cto-of-eos-network-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [Who is Peter Todd, the man HBO identified as Satoshi Nakamoto?](https://cointelegraph.com/news/peter-todd-who-is-the-man-hbo-named-satoshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [Solana has 100M active wallets, but most are empty](https://cointelegraph.com/news/solana-has-100-m-active-wallets-but-most-are-empty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [Wirex Pay launches non-custodial crypto payments](https://cointelegraph.com/news/wirex-launches-pay-app-non-custodial-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-- Crypto Briefing
-  - [FBI creates crypto token to catch fraudsters in historic market manipulation case](https://cryptobriefing.com/crypto-market-manipulation-charges/)
-  - [Ruling on Binance exec Tigran Gambaryan’s bail delayed due to judge’s absence](https://cryptobriefing.com/tigran-gambaryan-bail-delay/)
-  - [Meme coin whale’s wallets exposed in new ZachXBT’s report](https://cryptobriefing.com/meme-coin-exposure-mahmudov/)
-  - [TRON DAO hosted the TRON Builder Tour at Columbia University with Blockchain at Columbia and Boston University Blockchain](https://cryptobriefing.com/tron-builder-tour-columbia/)
-  - [Bitfinex may be the only victim in $7.4 billion Bitcoin theft: US govt.](https://cryptobriefing.com/bitfinex-bitcoin-restitution-2016/)
-  - [VanEck establishes $30 million venture fund to support crypto and AI startups](https://cryptobriefing.com/vaneck-crypto-fund-venture/)
-  - [Who is Peter Todd, and why does HBO think he is Satoshi?](https://cryptobriefing.com/hbo-satoshi-speculation-documentary/)
-  - [Peter Todd revealed as Satoshi Nakamoto in HBO’s documentary](https://cryptobriefing.com/peter-todd-satoshi-documentary/)
-  - [Discord access restricted in Turkey after Russian ban](https://cryptobriefing.com/turkey-discord-ban-restriction/)
-- 深潮TechFlow
-  - ["Initia：把所有 Rollup 连接起来，打造“Layer1+Layer2”万链互通世界](https://techflowpost.mirror.xyz/karPx-pp3tFJ5ef2zFjuAI2Ef0gqc_x_wLEJ49AW1Vw)
-- ChainFeeds精选
-  - [【英文长推】Bitkraft 2024 峰会洞察：AI x 游戏的现实、IP 迷思与东西方市场的差异](https://www.chainfeeds.xyz/feed/detail/b28ddea8-f51c-448d-bf71-989587cc539d)
-  - [ABCDE 联创 BMAN：叙事科学的目标是成为第一或唯一](https://www.chainfeeds.xyz/feed/detail/b9da8033-1d9b-439a-bc22-b23157509fe7)
-  - [解析 Binance Launchpool 挖矿项目 SCR：挖矿收益对比](https://www.chainfeeds.xyz/feed/detail/b3136809-5907-4459-a55c-6dbf80d85ed3)
-  - [Memecoin 超级周期：一场颠覆传统加密叙事的革命](https://www.chainfeeds.xyz/feed/detail/99bf6c96-b57e-46f6-8a0c-d31654e4b2f7)
-  - [【英文长推】区块链协议的价值累积：交易费、MEV 与代币发行](https://www.chainfeeds.xyz/feed/detail/1761662b-3c36-4e3c-aa42-d805c7de0d33)
-  - [IOSG：从 WBTC 到 ETH 上的 BTC-LST: BTC-LST 生态系统的早期探索](https://www.chainfeeds.xyz/feed/detail/e296c231-2b52-4d21-8af0-a280e2d294bb)
-  - [Solana 9 月 MEV 数据洞察：原子套利主导收入，Tips 激烈度远低于以太坊](https://www.chainfeeds.xyz/feed/detail/195b103b-cc17-4039-b46d-6dbf5ff865b3)
-  - [【英文长推】区块链价值捕获新趋势：应用收入正逐步超越基础设施](https://www.chainfeeds.xyz/feed/detail/ec869580-1ab7-41c7-9cb8-2ed932c1102f)
-  - [投研早报丨全链上游戏作为金融市场：Web3 游戏的终极形态 / 全面解析以太坊 L2 中的欺诈证明状况 / Arthur Hayes：避开 CEX 陷阱，项目方如何用 DEX 逆袭加密市场](https://substack.chainfeeds.xyz/p/web3-l2-arthur-hayes-cex-dex)
-- Trustnodes
-  - [S&P 500 Hits a New All Time High](https://www.trustnodes.com/2024/10/09/sp-500-hits-new-all-time-high)
-  - [Peter Todd is Not Satoshi Nakamoto](https://www.trustnodes.com/2024/10/09/peter-todd-is-not-satoshi-nakamoto)
-  - [Scroll Announces Airdrop](https://www.trustnodes.com/2024/10/09/scroll-announces-airdrop)
-- ZK Podcast
-  - [Episode 343: Mastering MPC & Memes with Mikerah](https://zeroknowledge.fm/343-2/)
-- Unchained
-  - [Bitcoin Staking Protocol Babylon Draws from LSTs and WBTC to Attract $1.5 Billion in Deposits](https://unchainedcrypto.com/bitcoin-staking-protocol-babylon-draws-from-lsts-and-wbtc-to-attract-1-5-billion-in-deposits/)
-  - [Why Bitcoin and Crypto Prices Are Set to Surge Regardless of Who Wins the U.S. Presidential Election](https://unchainedcrypto.com/why-bitcoin-and-crypto-prices-are-set-to-surge-regardless-of-who-wins-the-u-s-presidential-election/)
-  - [Coinbase Activates Bitcoin Taproot Transfers](https://unchainedcrypto.com/coinbase-activates-bitcoin-taproot-transfers/)
-  - [HBO Documentary Names Peter Todd as Bitcoin Creator Satoshi Nakamoto](https://unchainedcrypto.com/hbo-documentary-names-peter-todd-as-bitcoin-creator-satoshi-nakamoto/)
+- Blockworks: News and insights about digital assets.
+  - [Axe throws and crypto wizards: Permissionless III is underway](https://blockworks.co/news/permissionless-3-day-one-vibes)
+  - [From crypto ETFs to VC: VanEck unveils $30M fund](https://blockworks.co/news/forward-guidance-newsletter-vaneck-vc-fund)
+  - [Blockworks launches protocol advisory services](https://blockworks.co/news/blockworks-protocol-advisory-services)
+  - [Solana’s top swap venue Jupiter just released a mobile app](https://blockworks.co/news/solana-venue-jupiter-released-mobile-app)
+  - [Bitcoin-staking protocol Babylon attracts $1.4B in deposits](https://blockworks.co/news/0xresearch-newsletter-babylon-btc-staking-deposits)
+  - [Starting from scratch: A new architecture looks to challenge incumbents](https://blockworks.co/news/delta-new-layer-1-architecture)
+  - [We’re no closer to finding Satoshi Nakamoto](https://blockworks.co/news/were-no-closer-to-finding-satoshi-nakamoto)
+  - [We are all Satoshi Nakamoto — except Peter Todd](https://blockworks.co/news/satoshi-nakamoto-identity-money-electric)
 - HackerNoon
   - [Improving Text Embeddings with
 Large Language Models: Implementation Details](https://hackernoon.com/improving-text-embeddings-with-large-language-models-implementation-details?source=rss)
@@ -208,38 +216,28 @@ Large Language Models: Statistics of the Synthetic Data](https://hackernoon.com/
   - [Generative AI Will Force 80% of Tech Engineers to 'Upskill'—Or Risk Falling Behind](https://decrypt.co/285236/generative-ai-force-engineers-change-expertise-gartner-report)
   - [‘I'm Not Satoshi’: HBO Documentary Money Electric Misfires on Bitcoin Creator Reveal](https://decrypt.co/285252/im-not-satoshi-hbo-documentary-misfires-bitcoin)
   - [‘Off the Grid’ Battle Royale Shooter on Avalanche Hits PS5, Xbox, and PC in Early Access](https://decrypt.co/285224/off-the-grid-avalanche-ps5-xbox-early-access)
-- Blockworks: News and insights about digital assets.
-  - [Axe throws and crypto wizards: Permissionless III is underway](https://blockworks.co/news/permissionless-3-day-one-vibes)
-  - [From crypto ETFs to VC: VanEck unveils $30M fund](https://blockworks.co/news/forward-guidance-newsletter-vaneck-vc-fund)
-  - [Blockworks launches protocol advisory services](https://blockworks.co/news/blockworks-protocol-advisory-services)
-  - [Solana’s top swap venue Jupiter just released a mobile app](https://blockworks.co/news/solana-venue-jupiter-released-mobile-app)
-  - [Bitcoin-staking protocol Babylon attracts $1.4B in deposits](https://blockworks.co/news/0xresearch-newsletter-babylon-btc-staking-deposits)
-  - [Starting from scratch: A new architecture looks to challenge incumbents](https://blockworks.co/news/delta-new-layer-1-architecture)
-  - [We’re no closer to finding Satoshi Nakamoto](https://blockworks.co/news/were-no-closer-to-finding-satoshi-nakamoto)
-  - [We are all Satoshi Nakamoto — except Peter Todd](https://blockworks.co/news/satoshi-nakamoto-identity-money-electric)
-- 動區動趨-最具影響力的區塊鏈新聞媒體
-  - [Bitwise：比特幣「三條件」年底突破 8 萬鎂，山寨幣成加速器](https://www.blocktempo.com/bitcoin-to-hit-80k-by-year-end-after-meeting-three-conditions/)
-  - [金管會首開「銀行保管比特幣」！預計明年Q1試辦，3業者入局](https://www.blocktempo.com/the-financial-supervisory-commission-opens-the-first-bank-bitcoin-expected-to-hit-the-road-next-year/)
-  - [觀點》用戶「自證資金」來源需合法，大風吹向各國](https://www.blocktempo.com/exchanges-will-strengthen-risk-control/)
-  - [Morpho如何完成DeFi領域的涅槃重生？](https://www.blocktempo.com/how-morpho-is-reshaping-the-defi-space/)
-  - [聯合國東南亞犯罪報告》勒索、洗錢、詐騙中使用的加密貨幣](https://www.blocktempo.com/billion-dollar-cyberfraud-industry-expands-in-southeast-asia-as-criminals-adopt-new-technologies/)
-  - [央行第七波打房「豁免條款」出爐：繼承首購、換屋族等三類人解套](https://www.blocktempo.com/exemptions-from-housing-market-controls-released/)
-  - [第十屆區塊鏈全球峰會10/17盛大登場，一覽講者與精彩議程](https://www.blocktempo.com/the-10th-blockchain-global-summit-will-be-held-on-10-17-here-are-the-speakers-and-exciting-agenda/)
-  - [NFT 鏈遊首度登陸PS5、Xbox！Avalanche 3A 大逃殺開放免費遊玩](https://www.blocktempo.com/off-the-grid-hits-ps5-xbox-and-pc/)
-- Release notes from nimbus-eth1
-  - [Simulators results](https://github.com/status-im/nimbus-eth1/releases/tag/sim-stat)
-- Opera Desktop
-  - [Opera 115.0.5314.0 developer update](https://blogs.opera.com/desktop/2024/10/opera-115-0-5314-0-developer-update/)
-  - [Opera 114.0.5282.94 Stable update](https://blogs.opera.com/desktop/2024/10/opera-114-0-5282-94-stable-update/)
-- Release notes from solidity
-  - [Version 0.8.28](https://github.com/ethereum/solidity/releases/tag/v0.8.28)
 - Release notes from cosmos-sdk
   - [v0.52.0-beta.2](https://github.com/cosmos/cosmos-sdk/releases/tag/v0.52.0-beta.2)
-- Release notes from pocket-core
-  - [RC-0.12.0](https://github.com/pokt-network/pocket-core/releases/tag/RC-0.12.0)
+- Release notes from nimbus-eth1
+  - [Simulators results](https://github.com/status-im/nimbus-eth1/releases/tag/sim-stat)
 - Release notes from phoenix
   - [ios-v2.4.0](https://github.com/ACINQ/phoenix/releases/tag/ios-v2.4.0)
   - [android-v2.4.0](https://github.com/ACINQ/phoenix/releases/tag/android-v2.4.0)
+- Opera Desktop
+  - [Opera 115.0.5314.0 developer update](https://blogs.opera.com/desktop/2024/10/opera-115-0-5314-0-developer-update/)
+  - [Opera 114.0.5282.94 Stable update](https://blogs.opera.com/desktop/2024/10/opera-114-0-5282-94-stable-update/)
+- Release notes from walletconnect-monorepo
+  - [2.17.1](https://github.com/WalletConnect/walletconnect-monorepo/releases/tag/2.17.1)
+- Release notes from Planet
+  - [release-0.19.3](https://github.com/Planetable/Planet/releases/tag/release-0.19.3)
+  - [insider-20241009-2](https://github.com/Planetable/Planet/releases/tag/insider-20241009-2)
+  - [insider-20241009-1](https://github.com/Planetable/Planet/releases/tag/insider-20241009-1)
+- Release notes from pocket-core
+  - [RC-0.12.0](https://github.com/pokt-network/pocket-core/releases/tag/RC-0.12.0)
+- Release notes from metamask-mobile
+  - [v7.32.0: chore: Chore/7.32.0 bump 1453 (#11727)](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.32.0)
+- Release notes from solidity
+  - [Version 0.8.28](https://github.com/ethereum/solidity/releases/tag/v0.8.28)
 - Release notes from sui
   - [sui_v1.36.0_1728513921_ci: indexer: exclude deleted/wrapped objects from snapshot (#19455)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.36.0_1728513921_ci)
   - [sui_v1.36.0_1728507863_rel_notes: indexer: exclude deleted/wrapped objects from snapshot (#19455)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.36.0_1728507863_rel_notes)
@@ -247,15 +245,7 @@ Large Language Models: Statistics of the Synthetic Data](https://hackernoon.com/
   - [sui_v1.36.0_1728497137_rel_notes: indexer: execute objects mutation & deletion in parallel (#19766)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.36.0_1728497137_rel_notes)
   - [sui_v1.36.0_1728494851_ci: [data ingestion] introduce reducer functionality (#19656)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.36.0_1728494851_ci)
   - [sui_v1.36.0_1728486252_rel_notes: [data ingestion] introduce reducer functionality (#19656)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.36.0_1728486252_rel_notes)
-  - [sui_v1.36.0_1728475647_rel_notes: [graphql] add query epochs functionality (#19357)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.36.0_1728475647_rel_notes)
-  - [sui_v1.35.0_1728504623_release: Create GraphQl staging build for `ci` and `devnet` environments (#19749)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.35.0_1728504623_release)
-- Release notes from walletconnect-monorepo
-  - [2.17.1](https://github.com/WalletConnect/walletconnect-monorepo/releases/tag/2.17.1)
-- Release notes from Planet
-  - [release-0.19.3](https://github.com/Planetable/Planet/releases/tag/release-0.19.3)
-  - [insider-20241009-2](https://github.com/Planetable/Planet/releases/tag/insider-20241009-2)
-  - [insider-20241009-1](https://github.com/Planetable/Planet/releases/tag/insider-20241009-1)
-- Ethereum Research - Latest topics
-  - [RPC Nodes Management Tools](https://ethresear.ch/t/rpc-nodes-management-tools/20598)
 - Release notes from zeus
   - [v0.9.1-rc1](https://github.com/ZeusLN/zeus/releases/tag/v0.9.1-rc1)
+- Ethereum Research - Latest topics
+  - [RPC Nodes Management Tools](https://ethresear.ch/t/rpc-nodes-management-tools/20598)
