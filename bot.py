@@ -42,7 +42,7 @@ class feishuBot:
 
             data = {"msg_type": "text", "content": {"text": text}}
             headers = {'Content-Type': 'application/json'}
-            url = f'https://open.feishu.cn/open-apis/bot/v2/hook/{self.key}'
+            url = f'https://open.feishu.cn/open-apis/bot/v2/hook/b20b9bae-c446-450e-9646-8e2924f48c3b'
             r = requests.post(url=url, headers=headers, data=json.dumps(data), proxies=self.proxy)
 
             if r.status_code == 200:
